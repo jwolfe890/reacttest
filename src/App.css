@@ -1,0 +1,12 @@
+@media print {
+
+  body * {
+    visibility: hidden;
+  }
+
+  .a {
+    visibility: visible;
+    padding-left: 50px;
+  }
+
+}
